@@ -10,5 +10,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.platform = :ios, "9.0"
   s.documentation_url = 'https://docs.sendbird.com/'
-  s.ios.vendored_frameworks = 'Build/iOS/WebRTC.framework'
+  s.ios.vendored_frameworks = 'WebRTC.framework'
 end
