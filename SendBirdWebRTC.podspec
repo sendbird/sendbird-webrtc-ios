@@ -6,9 +6,10 @@ Pod::Spec.new do |s|
   s.homepage     = "https://sendbird.com"
   s.license      = { :type => 'Multiple', :file => 'LICENSE' }
   s.authors      = { "Jed Gyeong" => "jed.gyeong@sendbird.com", "Young Hwang" => "young.hwang@sendbird.com" }
-  s.source       = { :git => "https://github.com/smilefam/SendBird-WebRTC-iOS.git", :tag => "v#{s.version}" }
+  #s.source       = { :git => "https://github.com/smilefam/SendBird-WebRTC-iOS.git", :tag => "v#{s.version}" }
+  s.source       = { :http => "https://github.com/smilefam/SendBird-WebRTC-iOS/releases/download/v1.0/WebRTC.framework.zip" }
   s.requires_arc = true
   s.platform = :ios, "9.0"
   s.documentation_url = 'https://docs.sendbird.com/'
-  s.ios.vendored_frameworks = 'WebRTC.framework'
+  s.ios.vendored_frameworks = 'Build/iOS/WebRTC.framework'
 end
