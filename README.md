@@ -30,7 +30,7 @@ target YOUR_PROJECT_TARGET do
 end
 ```
 
-Install SendBird Framework through CocoaPods.
+Install WebRTC Framework through CocoaPods.
 
 ```
 pod install
