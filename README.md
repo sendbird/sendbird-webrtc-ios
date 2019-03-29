@@ -40,7 +40,7 @@ Now you can see installed WebRTC framework by inspecting `YOUR_PROJECT.xcworkspa
 
 ### Install WebRTC Framework from Carthage
 
-1. Add `github "smilefam/sendbird-webrtc-ios.git'"` to your Cartfile.
+1. Add `github "smilefam/sendbird-webrtc-ios.git"` to your Cartfile.
 2. Run `carthage update`.
 3. Go to your Xcode project's `"General"` settings. Open `<YOUR_XCODE_PROJECT_DIRECTORY>/Carthage/Build/iOS` in Finder and drag `WebRTC.framework` to the `"Embedded Binaries"` section in Xcode. Make sure `Copy items if needed` is selected and click `Finish`.
 
