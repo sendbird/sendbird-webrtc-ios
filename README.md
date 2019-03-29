@@ -1,9 +1,9 @@
 # WebRTC framework for iOS
 
-![Platform](https://img.shields.io/badge/platform-iOS-orange.svg)
+![Platform](https://img.shields.io/badge/Platform-iOS-orange.svg)
 ![CocoaPods compatible](https://img.shields.io/badge/CocoaPods-compatible-green.svg)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![BSD License](https://img.shields.io/badge/license-BSD-brightgreen.svg)](https://github.com/smilefam/sendbird-webrtc-ios/blob/master/LICENSE)
+[![BSD License](https://img.shields.io/badge/License-BSD-brightgreen.svg)](https://github.com/smilefam/sendbird-webrtc-ios/blob/master/LICENSE)
 
 ## Introduction
 
@@ -40,7 +40,7 @@ Now you can see installed WebRTC framework by inspecting `YOUR_PROJECT.xcworkspa
 
 ### Install WebRTC Framework from Carthage
 
-1. Add `github "smilefam/SendBird-WebRTC-iOS"` to your Cartfile.
+1. Add `github "smilefam/sendbird-webrtc-ios.git'"` to your Cartfile.
 2. Run `carthage update`.
 3. Go to your Xcode project's `"General"` settings. Open `<YOUR_XCODE_PROJECT_DIRECTORY>/Carthage/Build/iOS` in Finder and drag `WebRTC.framework` to the `"Embedded Binaries"` section in Xcode. Make sure `Copy items if needed` is selected and click `Finish`.
 
