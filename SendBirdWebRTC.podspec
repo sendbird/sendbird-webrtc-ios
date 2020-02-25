@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SendBirdWebRTC"
-  s.version      = "1.1"
+  s.version      = "1.1.1"
   s.summary      = "WebRTC Framework"
   s.description  = "WebRTC Framework for SendBird Video Chat"
   s.homepage     = "https://sendbird.com"
