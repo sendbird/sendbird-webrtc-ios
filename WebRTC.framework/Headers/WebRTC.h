@@ -48,6 +48,7 @@
 #import <WebRTC/RTCDispatcher.h>
 #import <WebRTC/UIDevice+RTCDevice.h>
 #import <WebRTC/RTCAudioSource.h>
+#import <WebRTC/RTCAudioSink.h>
 #import <WebRTC/RTCAudioTrack.h>
 #import <WebRTC/RTCConfiguration.h>
 #import <WebRTC/RTCDataChannel.h>

@@ -1,5 +1,8 @@
 # Change Log
 
+### 1.2.0 (Sep 2, 2020)
+* Added `RTCAudioSink` interface for receiving audio stream data from iOS audio device. 
+
 ### 1.1.1 (Feb 25, 2020)
 * Fixed issue where RTCStatistics wouldn't properly appear.
 
