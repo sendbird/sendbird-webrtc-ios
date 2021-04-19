@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This is WebRTC framework for iOS that [SendBird](https://sendbird.com/) builds. Every feature is identical to [Google WebRTC](https://webrtc.org/native-code/ios/), but this framework is the bitcode-enabled and includes VP9 codec.
+This is WebRTC framework for iOS that [SendBird](https://sendbird.com/) builds on top of [Google WebRTC](https://webrtc.org/native-code/ios/). It includes additional features required for SendBirdCall SDK, such as enabled bitcode and VP9 codec.
 
 ## Prerequisite
 
