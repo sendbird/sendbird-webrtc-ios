@@ -1,4 +1,2 @@
-WebRTC.xcframework/* filter=lfs diff=lfs merge=lfs -text
-WebRTC.xcframework/ filter=lfs diff=lfs merge=lfs -text
 WebRTC.xcframework/ios-arm64_armv7/WebRTC.framework/WebRTC filter=lfs diff=lfs merge=lfs -text
 WebRTC.xcframework/ios-i386_x86_64-simulator/WebRTC.framework/WebRTC filter=lfs diff=lfs merge=lfs -text
