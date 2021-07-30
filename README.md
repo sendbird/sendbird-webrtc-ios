@@ -26,7 +26,7 @@ platform :ios, '9.0'
 use_frameworks!
 
 target YOUR_PROJECT_TARGET do
-  pod 'SendBirdWebRTC', :git => 'https://github.com/sendbird/sendbird-webrtc-ios.git', :tag => 'v1.0'
+  pod 'SendBirdWebRTC'
 end
 ```
 
