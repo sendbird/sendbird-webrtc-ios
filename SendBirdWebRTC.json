@@ -1,0 +1,8 @@
+{
+    "1.0.1": "https://github.com/sendbird/sendbird-webrtc-ios/releases/download/1.0.1/WebRTC.framework.zip",
+    "1.1.0": "https://github.com/sendbird/sendbird-webrtc-ios/releases/download/1.1.0/WebRTC.framework.zip",
+    "1.1.1": "https://github.com/sendbird/sendbird-webrtc-ios/releases/download/1.1.1/WebRTC.framework.zip",
+    "1.2.0": "https://github.com/sendbird/sendbird-webrtc-ios/releases/download/1.2.0/WebRTC.framework.zip",
+    "1.3.0": "https://github.com/sendbird/sendbird-webrtc-ios/releases/download/1.3.0/WebRTC.framework.zip",
+    "1.4.0": "https://github.com/sendbird/sendbird-webrtc-ios/releases/download/1.4.0/WebRTC.xcframework.zip"
+}

@@ -1,5 +1,9 @@
 # Change Log
 
+### 1.4.0 (Oct 1, 2021)
+* Updated WebRTC version to M93.
+* Added support for Swift Package Manager.
+
 ### 1.3.0 (Apr 21, 2021)
 * Updated WebRTC version to M89.
 * Made `RTCDefaultShader` public.    
