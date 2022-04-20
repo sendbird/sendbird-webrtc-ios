@@ -1,5 +1,9 @@
 # Change Log
 
+### 1.5.0 (Apr 20, 2022)
+* Updated WebRTC version to M100.
+* Removed i386 architecture from the framework.  
+
 ### 1.4.0 (Oct 1, 2021)
 * Updated WebRTC version to M93.
 * Added support for Swift Package Manager.
