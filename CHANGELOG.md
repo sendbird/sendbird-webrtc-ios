@@ -1,5 +1,9 @@
 # Change Log
 
+### 1.6.0 (Jul 29, 2022)
+* Updated WebRTC version to M103.  
+* Fix issue with invalid bitcode symbols. 
+
 ### 1.5.0 (Apr 20, 2022)
 * Updated WebRTC version to M100.
 * Removed i386 architecture from the framework.  
