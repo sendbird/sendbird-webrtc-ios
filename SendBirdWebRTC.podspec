@@ -11,6 +11,5 @@ Pod::Spec.new do |s|
   s.documentation_url = 'https://docs.sendbird.com/'
   s.source       = { :http => "https://github.com/sendbird/sendbird-webrtc-ios/releases/download/1.6.0/WebRTC.zip" }
   s.ios.vendored_frameworks = 'WebRTC.xcframework'
-  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386' }
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'i386' }
 end
