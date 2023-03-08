@@ -14,7 +14,7 @@
 
 ### 1.3.0 (Apr 21, 2021)
 * Updated WebRTC version to M89.
-* Made `RTCDefaultShader` public.    
+* Made `RTCDefaultShader` public.
 
 ### 1.2.0 (Sep 2, 2020)
 * Added `RTCAudioSink` interface for receiving audio stream data from iOS audio device. 

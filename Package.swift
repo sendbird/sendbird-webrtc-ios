@@ -3,7 +3,7 @@ import PackageDescription
 
 let package = Package(
     name: "WebRTC",
-    platforms: [.iOS(.v9)],
+    platforms: [.iOS(.v11)],
     products: [
         .library(
             name: "WebRTC",
@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "WebRTC",
-            url: "https://github.com/sendbird/sendbird-webrtc-ios/releases/download/1.6.0/WebRTC.xcframework.zip",
-            checksum: "5356747071caf9ccea70c2b3a69676dde8cb2995af5d414fb64ca58713e788e6"
+            url: "https://github.com/sendbird/sendbird-webrtc-ios/releases/download/1.6.0-compact/WebRTC.xcframework.zip",
+            checksum: "4133425339e16adf24d19207c574e1740a70b4e84107a2e72efee2b541cd00fa"
         )
     ]
 )
