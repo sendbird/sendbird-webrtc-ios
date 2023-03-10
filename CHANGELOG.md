@@ -1,5 +1,8 @@
 # Change Log
 
+### 1.6.1 (Mar 10, 2023)
+* Change LICENSE to LICENSE.md 
+
 ### 1.6.0 (Jul 29, 2022)
 * Updated WebRTC version to M103.  
 * Fix issue with invalid bitcode symbols. 
