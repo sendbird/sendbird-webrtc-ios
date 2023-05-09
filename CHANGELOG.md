@@ -1,5 +1,9 @@
 # Change Log
 
+### 1.7.0 (May 9, 2023)
+* Updated WebRTC version to M112.  
+* Updated minimum iOS version to iOS 11.  
+
 ### 1.6.1 (Mar 10, 2023)
 * Change LICENSE to LICENSE.md 
 

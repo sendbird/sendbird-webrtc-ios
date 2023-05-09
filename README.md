@@ -29,7 +29,7 @@ iOS 9.0 or higher
 Add below into your Podfile.
 
 ```
-platform :ios, '9.0'
+platform :ios, '11.0'
 use_frameworks!
 
 target YOUR_PROJECT_TARGET do
