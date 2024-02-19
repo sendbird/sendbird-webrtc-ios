@@ -1,5 +1,8 @@
 # Change Log
 
+### 1.8.0 (Feb 19, 2024)
+* Updated WebRTC version to M118.
+
 ### 1.7.0 (May 9, 2023)
 * Updated WebRTC version to M112.  
 * Updated minimum iOS version to iOS 11.  

@@ -12,7 +12,7 @@ This is WebRTC framework for iOS that [SendBird](https://sendbird.com/) builds o
 
 ## Prerequisite
 
-iOS 9.0 or higher
+iOS 11.0 or higher
 
 ## Installation
 
