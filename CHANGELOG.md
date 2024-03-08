@@ -1,5 +1,8 @@
 # Change Log
 
+### 1.8.1 (Mar 7, 2024)
+* Fixed undefined symbol issue. 
+
 ### 1.8.0 (Feb 19, 2024)
 * Updated WebRTC version to M118.
 
