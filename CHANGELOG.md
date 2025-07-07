@@ -1,5 +1,9 @@
 # Change Log
 
+### 1.9.0 (Jul 7, 2024)
+* Updated WebRTC version to M137
+* Updated minimum iOS version to iOS 14 
+
 ### 1.8.1 (Mar 7, 2024)
 * Fixed undefined symbol issue. 
 

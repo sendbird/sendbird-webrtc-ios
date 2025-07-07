@@ -12,7 +12,7 @@ This is WebRTC framework for iOS that [SendBird](https://sendbird.com/) builds o
 
 ## Prerequisite
 
-iOS 11.0 or higher
+iOS 14.0 or higher
 
 ## Installation
 
@@ -29,7 +29,7 @@ iOS 11.0 or higher
 Add below into your Podfile.
 
 ```
-platform :ios, '11.0'
+platform :ios, '14.0'
 use_frameworks!
 
 target YOUR_PROJECT_TARGET do
