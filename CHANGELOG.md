@@ -1,6 +1,6 @@
 # Change Log
 
-### 1.9.0 (Jul 7, 2024)
+### 1.9.0 (Jul 7, 2025)
 * Updated WebRTC version to M137
 * Updated minimum iOS version to iOS 14 
 
