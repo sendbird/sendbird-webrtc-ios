@@ -1,7 +1,13 @@
 # Change Log
 
 ### 1.10.0 (Apr 9, 2026)
-* Rebuilt the framework on Xcode 26
+- Rebuilt with **Xcode 26** to comply with Apple's App Store submission requirement,
+  effective late April 2026, which mandates that all apps be built using Xcode 26 or later.
+- No functional changes or API modifications are included in this release.
+
+> **Note for Xcode 16 users:** This release is compiled with Xcode 26 and may not be
+> compatible with Xcode 16 build environments. If you are still on Xcode 16, please
+> continue using the previous version.
 
 ### 1.9.0 (Jul 7, 2025)
 * Updated WebRTC version to M137
