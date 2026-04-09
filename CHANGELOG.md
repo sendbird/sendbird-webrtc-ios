@@ -1,5 +1,8 @@
 # Change Log
 
+### 1.10.0 (Apr 9, 2026)
+* Rebuilt the framework on Xcode 26
+
 ### 1.9.0 (Jul 7, 2025)
 * Updated WebRTC version to M137
 * Updated minimum iOS version to iOS 14 
