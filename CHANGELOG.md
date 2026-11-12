@@ -1,5 +1,11 @@
 # Change Log
 
+### 1.11.0 (Nov 12, 2026)
+- Added `setAudioPlayout:` and `setAudioRecording:` to `RTCPeerConnection`, the iOS counterparts of
+  Android's `PeerConnection.setAudioPlayout`/`setAudioRecording`. Enabling them while the audio device
+  is not playing or recording initializes and starts it again, for example after the audio unit failed to start.
+- Built with Xcode 26. No other changes.
+
 ### 1.10.0 (Apr 9, 2026)
 - Rebuilt with **Xcode 26** to comply with Apple's App Store submission requirement,
   effective late April 2026, which mandates that all apps be built using Xcode 26 or later.
